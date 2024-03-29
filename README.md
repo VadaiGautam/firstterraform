@@ -1,2 +1,2 @@
 # firstterraform
-first-repo-from-terraform
+first-repo-build-using-terraform
